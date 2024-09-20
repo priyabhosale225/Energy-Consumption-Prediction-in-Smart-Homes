@@ -8,9 +8,13 @@ The primary objective is to understand how environmental factors influence energ
 The dataset contains hourly records from multiple smart homes, including:
 
 Energy_Consumption_kWh: Total energy consumed.
+
 Temperature_C: Ambient temperature in degrees Celsius.
+
 Humidity_%: Relative humidity percentage.
+
 HVAC_Usage_kWh: Energy used by the HVAC system.
+
 Kitchen_Usage_kWh: Energy consumption in the kitchen.
 Electronics_Usage_kWh: Energy used by electronic devices.
 Occupancy: Number of occupants in the home.
