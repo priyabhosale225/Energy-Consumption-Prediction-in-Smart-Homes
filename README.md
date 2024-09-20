@@ -7,19 +7,23 @@ The primary objective is to understand how environmental factors influence energ
 # Dataset Overview :
 The dataset contains hourly records from multiple smart homes, including:
 
-Energy_Consumption_kWh: Total energy consumed.
+> Energy_Consumption_kWh: Total energy consumed.
 
-Temperature_C: Ambient temperature in degrees Celsius.
+> Temperature_C: Ambient temperature in degrees Celsius.
 
-Humidity_%: Relative humidity percentage.
+> Humidity_%: Relative humidity percentage.
 
-HVAC_Usage_kWh: Energy used by the HVAC system.
+> HVAC_Usage_kWh: Energy used by the HVAC system.
 
-Kitchen_Usage_kWh: Energy consumption in the kitchen.
-Electronics_Usage_kWh: Energy used by electronic devices.
-Occupancy: Number of occupants in the home.
-Weather_Conditions: Categorical weather descriptions (e.g., Sunny, Rainy).
-City: Location of the smart home in India.
+> Kitchen_Usage_kWh: Energy consumption in the kitchen.
+
+> Electronics_Usage_kWh: Energy used by electronic devices.
+
+> Occupancy: Number of occupants in the home.
+
+> Weather_Conditions: Categorical weather descriptions (e.g., Sunny, Rainy).
+
+> City: Location of the smart home in India.
 
 # Conclusion : 
 > The project successfully demonstrated the ability to analyze and predict energy consumption in smart homes using machine learning techniques. 
@@ -27,4 +31,4 @@ Through effective data cleaning, exploratory analysis, and model training, we we
 The insights gained can help homeowners make informed decisions about their energy consumption. 
 The findings contribute to the ongoing discourse on sustainable energy practices and offer a foundation for further research and development in smart home technologies.
 
-# Thank You.
+Thank You.
